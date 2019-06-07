@@ -71,3 +71,4 @@ In order to view and manage Orders in the ‘Orders Module’ the user shall be 
 ![Fig.Customer Orders](/docs/media/screen-select-stores.png)
 1. The admin selects the store(s) and confirms selection by clicking the 'OK' button.
 1. The assigned permissions and bounded scope will be applied to the 'order manager' role.
+
